@@ -24,6 +24,9 @@ public class SeleniumDemo {
     SignInpage.sendkeys_password();
     SignInpage.click_Login_btn();
 
+        System.out.println("Hello, this is my message!");
+        driver.close();
+
 }
 
 }
