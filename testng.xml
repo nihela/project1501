@@ -3,11 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/nabdelkefi/IdeaProjects/project1501">
         <classes>
-            <class name="Tests.SeleniumDemo">
-                <methods>
-                    <include name="New_user" />
-                </methods>
-            </class>
+            <class name="Tests.SeleniumDemo"/>
         </classes>
-    </test>
-</suite>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
