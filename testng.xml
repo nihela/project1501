@@ -5,7 +5,7 @@
         <classes>
             <class name="Tests.SeleniumDemo">
                 <methods>
-                    <include name="ValidateTitles_OnlineProduct" />
+                    <include name="New_user" />
                 </methods>
             </class>
         </classes>
